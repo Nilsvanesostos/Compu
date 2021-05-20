@@ -1,3 +1,5 @@
+//Este es el voluntario de hopfield para un solo patrón
+
 #include <iostream>
 #include <cmath>
 #include <fstream>
