@@ -1,3 +1,5 @@
+//Este programa es el obligatorio del tema de ising
+
 #include <iostream>
 #include <cmath>
 #include <fstream>
